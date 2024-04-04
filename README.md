@@ -36,9 +36,4 @@ Fine-tuning model parameters for improved performance.
 Exploring ensemble methods for better classification accuracy.
 Incorporating additional features or data sources for enhanced phishing detection.
 
-License
-This project is licensed under the [insert license type] License. See the LICENSE file for details.
-
-Acknowledgments
-Special thanks to [insert any acknowledgments or references here].
 Feel free to contribute, report issues, or suggest improvements. Happy coding!
